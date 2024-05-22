@@ -7,4 +7,4 @@ mysql-connector-python==8.3.0
 groq==0.4.2
 langchain-groq==0.0.1
 python-dotenv
-pip install python-dotenv
+
